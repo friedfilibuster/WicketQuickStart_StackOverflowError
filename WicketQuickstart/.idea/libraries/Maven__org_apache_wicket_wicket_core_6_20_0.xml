@@ -1,0 +1,60 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.wicket:wicket-core:6.20.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.20.0/wicket-core-6.20.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.20.0/wicket-core-6.20.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/wicket/wicket-core/6.20.0/wicket-core-6.20.0-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/testing/wicket-common-tests/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/testing/wicket-threadtest/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/testing/wicket-threadtest/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-auth-roles/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-auth-roles/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-bean-validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-bean-validation/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-cdi-1.1/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-cdi-1.1/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-cdi/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-cdi/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-datetime/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-datetime/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-devutils/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-devutils/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-examples/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-examples/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-experimental/wicket-atmosphere/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-experimental/wicket-atmosphere/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-extensions/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-extensions/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-guice/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-guice/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-ioc/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-ioc/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-jmx/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-jmx/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-core/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-core/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-jetty9/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-jetty9/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-jetty/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-jetty/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-tomcat/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-native-websocket/wicket-native-websocket-tomcat/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-objectsizeof-agent/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-objectsizeof-agent/src/test" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-request/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-request/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-spring/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-spring/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-util/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-util/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-velocity/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../third_party_source/apache-wicket-6.20.0/apache-wicket-6.20.0/wicket-velocity/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
